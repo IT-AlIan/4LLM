@@ -5,7 +5,7 @@ In questa sezione vengono messi a confronto 4 modelli da 8 miliardi di parametri
 - MISTRAL
 - GEMMA2
 
-Per analizzare le interazioni tra i modelli nei vari use case utilizzate i seguenti link:
+Per analizzare le interazioni tra i modelli nei vari use case utilizzate i seguenti link; alla fine di ogni interazione potete trovare il mio commento in ROSSO con il mio voto al lavoro svolto dal modello, gli errori trovati nelle traduzioni vengono evidenziti da >>>{ERROR}<<< per visualizzarli facilmente effettuate una ricerca nella pagina di ">>>":
 
 - [Domanda scentifica oneshoot](https://it-alian.github.io/4LLM/8B%20CHALLENGE/oneshoot_llm_interaction.htm)
 - [Traduzione di un testo](https://it-alian.github.io/4LLM/8B%20CHALLENGE/translate_llm_interaction.htm)
