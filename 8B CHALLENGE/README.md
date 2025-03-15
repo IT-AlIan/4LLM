@@ -12,4 +12,7 @@ Per analizzare le interazioni tra i modelli nei vari use case utilizzate i segue
 - [Riassunto di un testo](https://it-alian.github.io/4LLM/8B%20CHALLENGE/summary_llm_interaction.htm)
 - [Problema di coding](https://it-alian.github.io/4LLM/8B%20CHALLENGE/coding_llm_interaction.htm)
 
-Analizzando i risultati si puo vedere come questi modelli a 8B siano piuttosto limitati commettano molti errori nei loro task. Anche se possono essere un valido supporto di lavoro devono attentamente essere controllati e verificati.
+Analizzando i risultati si puo vedere come questi modelli a 8B siano piuttosto limitati commettano molti errori nei loro task. Anche se possono essere un valido supporto di lavoro devono attentamente essere controllati e verificati. 
+Di seguito il video delle interazioni con il vincitore stile "4 Ristoranti"
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dI3CTy1mKAA/0.jpg)](https://www.youtube.com/watch?v=dI3CTy1mKAA)
